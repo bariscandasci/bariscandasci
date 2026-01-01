@@ -25,7 +25,11 @@ I am actively developing projects and sharpening my skills in the following area
 ---
 
 ### 📊 GitHub Stats
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bariscandasci&show_icons=true&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=bariscandasci&show_icons=true&theme=radical" alt="Barış's GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bariscandasci&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
