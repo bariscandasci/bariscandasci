@@ -1,14 +1,14 @@
 # Hi there, I'm Barış Can Daşcı 👋
 
-### 🎓 About Me
-- **Computer Engineering Student** (2nd Year) at Karabük University (100% English Program).
-- **Founder & President** of the **Gelişim Project and Technology Club**, leading innovative student projects and collaboration. 💡
-- **Work and Travel (USA) Alumni**, which enhanced my global perspective and intercultural communication skills. 🌍
-- Passionate about **Artificial Intelligence**, **Cybersecurity**, and emerging technologies. 🚀
+### About Me
+- **Computer Engineering Student** (3nd Year) at Karabük University (100% English Program).
+- **Founder & President** of the **Gelişim Project and Technology Club**, leading innovative student projects and collaboration. 
+- **Work and Travel (USA) Alumni**, which enhanced my global perspective and intercultural communication skills. 
+- Passionate about **Artificial Intelligence**, **Cybersecurity**, and emerging technologies. 
 
 ---
 
-### 🛠 Tech Stack & Skills
+### Tech Stack & Skills
 I am actively developing projects and sharpening my skills in the following areas:
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -24,7 +24,7 @@ I am actively developing projects and sharpening my skills in the following area
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=bariscandasci&show_icons=true&theme=radical" alt="Barış's GitHub Stats" />
 <br/>
